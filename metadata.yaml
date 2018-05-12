@@ -1,0 +1,28 @@
+_repo: Op-de-Far-erDe-Aarde-en-haar-Volken-1907_19545
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seé, Anna
+    alias: See, Anna
+    gutenberg_agent_id: '8735'
+    url: http://www.gutenberg.org/2009/agents/8735
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19545'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Faroe Islands -- Description and travel'
+- !lcc 'DL'
+title: 'Op de Faröer
+
+  De Aarde en haar Volken, 1907'
+url: http://www.gutenberg.org/ebooks/19545
